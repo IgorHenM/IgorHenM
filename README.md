@@ -5,7 +5,7 @@
     
     
   </head>
-  <body bgcolor="#000000">
+  <body>
     <div class="content">
     <h1 class="titulo">Meu nome é Igor!</h1>
     <p class="description-country">Sou Brasileiro</p>
