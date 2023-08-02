@@ -2,7 +2,12 @@
 <html lang="pt-BR">
   <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="style.css">
+    
+    <style>
+    .content{
+    background-color: #000000;
+    }
+    </style>
   </head>
   <body>
     <div class="content">
