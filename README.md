@@ -4,9 +4,6 @@
     <meta charset="UTF-8">
   </head>
   <body>
-    <div class="content">
-    <h1 color="blue" class="titulo">Meu nome é Igor!</h1>
-    <p class="description-country">Sou Brasileiro</p>
-    </div>
+    <img src="https://drive.google.com/file/d/1yIJQodCIkC_hg9i6Jg1YeynmgIb7bZDT/view?usp=drivesdk">
   </body>
 </html>
