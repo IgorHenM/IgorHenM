@@ -2,11 +2,7 @@
 <html lang="pt-BR">
   <head>
     <meta charset="UTF-8">
-    <style>
-      .titulo{
-        background: linear-gradient(450deg, #0008FF, #00CCFF, #FFFFFF);
-        }
-    </style>
+    <link rel="stylesheet" href="style.css">
   </head>
   <body>
     <div class="content">
