@@ -4,6 +4,6 @@
     <meta charset="UTF-8">
   </head>
   <body>
-    <img src="https://drive.google.com/file/d/1yIJQodCIkC_hg9i6Jg1YeynmgIb7bZDT/view?usp=drivesdk">
+    <img src="https://photos.app.goo.gl/G5SPDwzRCqA7yQKDA">
   </body>
 </html>
