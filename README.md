@@ -8,5 +8,6 @@
 
   <h1>Meu nome é Igor!</h1>
   <p>Tenho 17 anos e estou começando na programação JavaScript</p>
+  <p>Tenho interesse na area de IoT e segurança cibernética, cujo quero me formar na graduação de defesa cibernética pela universidade Estácio</p>
   </body>
 </html>
