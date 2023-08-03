@@ -13,9 +13,9 @@
   <p>No momento estou me aprofundando na sintaxe JaavaScript para depois avançar para React e React Native</p>
   <li>
     <p> Algumas tecnologias que possuo conhecimendo: </p>
-    <p>HTML</p>
-    <p>CSS</p>
-    <p>JavaScript</p>
+    <p>-HTML</p>
+    <p>-CSS</p>
+    <p>-JavaScript</p>
   </li>
   </body>
 </html>
