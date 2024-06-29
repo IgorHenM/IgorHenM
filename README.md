@@ -2,12 +2,15 @@
 
 Atualmente, estou avançando meus estudos em Java e estou com o objetivo de me profissionalizar.
 
-## 👨‍💻 Algumas das Técnologias que conheço:
+
 
 
 ## <img src="https://skillicons.dev/icons?i=github">  Análises do GitHub
 [![Igor Mori's GitHub Stats:](https://github-readme-stats.vercel.app/api?username=IgorHenM)](https://github.com/anuraghazra/github-readme-stats)
 
+<br>
+
+## 👨‍💻 Algumas das Técnologias que conheço:
 
 <a align="center" href="https://skillicons.dev">
     <p>
