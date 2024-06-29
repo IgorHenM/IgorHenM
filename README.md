@@ -9,3 +9,7 @@ Atualmente, estou avançando meus estudos em Java e estou com o objetivo de me p
 <a style="color: #0CC0DF; text-decoration: none;" href="https://skillicons.dev">
     <p>Créditos dos Icons</p>
 </a>
+
+<a href="www.linkedin.com/in/igorhenriquemori">
+    <img src="https://i.ibb.co/WHd133X/In-White-34.png" >
+</a>
