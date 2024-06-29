@@ -4,9 +4,13 @@ Atualmente, estou avançando meus estudos em Java e estou com o objetivo de me p
 
 ## 👨‍💻 Algumas das Técnologias que conheço:
 
-<a align="center" href="https://skillicons.dev">
-<p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,maven,mysql">
-</p>
-</a>
 
+## <img src="https://skillicons.dev/icons?i=github">  Análises do GitHub
+[![Igor Mori's GitHub Stats:](https://github-readme-stats.vercel.app/api?username=IgorHenM)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<a align="center" href="https://skillicons.dev">
+    <p>
+        <img src="https://skillicons.dev/icons?i=html,css,js,java,maven,mysql">
+    </p>
+</a>
