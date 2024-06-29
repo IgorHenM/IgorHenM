@@ -7,5 +7,5 @@ Atualmente, estou avançando meus estudos em Java e estou com o objetivo de me p
     <img src="https://skillicons.dev/icons?i=html,css,js,java,maven,mysql">
 </p>
 <a style="color: #0CC0DF; text-decoration: none;" href="https://skillicons.dev">
-    <p style=" font-size: 20px;">Créditos dos Icons</p>
+    <p>Créditos dos Icons</p>
 </a>
