@@ -6,7 +6,9 @@ Atualmente, estou avançando meus estudos em Java e estou com o objetivo de me p
 
 
 ## <img src="https://skillicons.dev/icons?i=github">  Análises do GitHub
+<center>
 [![Igor Mori's GitHub Stats:](https://github-readme-stats.vercel.app/api?username=IgorHenM&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+</center>
 
 <br>
 
