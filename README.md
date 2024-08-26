@@ -7,8 +7,7 @@ objetivo de profissionaliza-me no desenvolvimento de aplicações web, desktop e
 [![Spring, PostgreSQL](https://skillicons.dev/icons?i=spring,postgresql)](https://skillicons.dev)
 
 
-<br>
-## <img src="https://skillicons.dev/icons?i=github">  Análises do GitHub
+## 📈 Análises do GitHub:
 
 [![Igor Mori's GitHub Stats:](https://github-readme-stats.vercel.app/api?username=IgorHenM&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <br>
