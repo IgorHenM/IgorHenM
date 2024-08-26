@@ -5,6 +5,8 @@ objetivo de profissionaliza-me no desenvolvimento de aplicações web, desktop e
 
 ## 📝 Técnologias que estou estudadndo:
 [![Spring, PostgreSQL](https://skillicons.dev/icons?i=spring,postgresql)](https://skillicons.dev)
+
+
 <br>
 ## <img src="https://skillicons.dev/icons?i=github">  Análises do GitHub
 
