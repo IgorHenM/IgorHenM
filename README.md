@@ -1,6 +1,10 @@
 ## Olá! 👋 Meu nome é Igor e estou cursando Ciência da Computação.
 
-Atualmente, estou avançando meus estudos em Java e estou com o objetivo de me profissionalizar.
+Atualmente, estou avançando meus estudos em algumas técnologias relacionadas a Java, pois tenho o
+objetivo de profissionaliza-me no desenvolvimento de aplicações web, desktop e mobile.
+
+## 📝 Técnologias que estou estudadndo:
+[![Spring, PostgreSQL](https://skillicons.dev/icons?i=spring,postgresql)](https://skillicons.dev)
 <br>
 ## <img src="https://skillicons.dev/icons?i=github">  Análises do GitHub
 
