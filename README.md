@@ -13,7 +13,7 @@ objetivo de profissionaliza-me no desenvolvimento de aplicações web, desktop e
 <br>
 ## 👨‍💻 Algumas das Técnologias que conheço:
 
-<a align="center" href="https://skillicons.dev">
+<a href="https://skillicons.dev">
     <p>
         <img src="https://skillicons.dev/icons?i=html,css,js,java,maven,mysql">
     </p>
