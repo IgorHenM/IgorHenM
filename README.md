@@ -3,7 +3,7 @@
 Atualmente, estou avançando meus estudos em algumas técnologias relacionadas a Java, pois tenho o
 objetivo de profissionalizar-me no desenvolvimento de aplicações web, desktop e mobile.
 
-## 📝 Técnologias que estou estudadndo:
+## 📝 Técnologias que estou estudando:
 [![Spring, PostgreSQL](https://skillicons.dev/icons?i=spring,postgresql)](https://skillicons.dev)
 
 
