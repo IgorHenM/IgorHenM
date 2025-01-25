@@ -15,6 +15,6 @@ objetivo de profissionalizar-me no desenvolvimento de aplicações web, desktop 
 
 <a href="https://skillicons.dev">
     <p>
-        <img src="https://skillicons.dev/icons?i=spring,vuehtml,css,js,java,maven,mysql,postgresql">
+        <img src="https://skillicons.dev/icons?i=spring,vue,html,css,js,java,maven,mysql,postgresql">
     </p>
 </a>
