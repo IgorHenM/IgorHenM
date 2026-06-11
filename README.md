@@ -9,4 +9,6 @@ objetivo de profissionalizar-me no desenvolvimento de aplicações web, desktop 
 <br>
 ## 👨‍💻 Algumas das Técnologias que já possuo conhecimento:
 
-[https://skillicons.dev/icons?i=spring,vue,html,css,js,java,maven,mysql,postgresql,typescript,nodejs](https://skillicons.dev/icons?i=java,maven,spring,html,css,javascript,typescript,nodejs,express,vue,mysql,postgresql,docker,kubernetes,git,gitlab)
+<a href="https://skillicons.dev/">
+  <img src="https://skillicons.dev/icons?i=java,maven,spring,html,css,javascript,typescript,nodejs,express,vue,mysql,postgresql,docker,kubernetes,git,gitlab" alt="dev-icons">
+</a>
