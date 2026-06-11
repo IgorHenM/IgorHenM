@@ -1,7 +1,6 @@
 ## Olá! 👋 Meu nome é Igor e estou cursando Ciência da Computação.
 
-Atualmente, estou avançando meus estudos em algumas técnologias relacionadas a Java, pois tenho o
-objetivo de profissionalizar-me no desenvolvimento de aplicações web, desktop e mobile.
+Sou Desenvolvedor Junior e estudande de Ciência da Computação. Sigo aprimorando meus conhecimentos na área, buscando aprender a desenvolver com boas práticas e a criar soluções robustas e seguras. 
 
 ## 📈 Análises do GitHub:
 
